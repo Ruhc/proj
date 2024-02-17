@@ -2,7 +2,7 @@
     p = ["right", "down", "down", "down", "down", "down", "down", ]
     for i in p:
         yield i
-	#genius code
+	#genius codeeee
 
 
 def script(check, x, y):
